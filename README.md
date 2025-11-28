@@ -1,3 +1,12 @@
+React instalattion process
+1. npm create vite 
+1.a) select react
+1.b) select javascript
+2. npm dev num (to run project)
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
